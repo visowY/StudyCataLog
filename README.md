@@ -38,7 +38,7 @@
 # Unity临时学习网址（零散的一些功能，笔记等）
 * https://github.com/visowY/Real-Time-Rendering-4th-Bibliography-Collection
 > 实时渲染第4版 参考文献
-* https://github.com/visowY/GameAndUnity-TechLib
+* https://github.com/m969/GameAndUnity-TechLib
 > GameAndUnity-TechLib 游戏和Unity的技术项目引用目录
 * https://github.com/Blizzard-liu/AndroidUtils
 > Android 常用工具合集

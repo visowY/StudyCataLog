@@ -20,6 +20,8 @@
 * https://github.com/MrNerverDie/Unity-UI-Framework
 > 一个简易的Unity_UI_Framework
 
+* https://github.com/alipay/SoloPi
+> 测试工具
 # Unity框架
 
 * https://github.com/ylmbtm/GameProject3 

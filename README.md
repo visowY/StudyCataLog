@@ -32,6 +32,9 @@
 * https://github.com/chiuan/TTUIFramework
 > 一个简易UI框架
 
+* https://github.com/smilehao/xlua-framework
+> 一个完全使用Lua实现的UI框架
+
 # 游戏示例
 * https://github.com/cymheart/3DMahjong
 > 3d麻将
